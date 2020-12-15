@@ -1,0 +1,22 @@
+
+div.container {
+    float: none;
+    clear: both;
+}
+
+div.sidebar {
+    float: left;
+    width: 20%;
+    background: #EEE;
+}
+
+div.main {
+    float: left;
+    width: 80%;
+}
+
+div.map-holder {
+    margin: 0 10px;
+    padding: 10px;
+    border: 1px solid #EEE;
+}
